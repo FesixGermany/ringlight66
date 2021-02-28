@@ -1,0 +1,297 @@
+EESchema Schematic File Version 4
+LIBS:ringlight66-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "Microscope ringlight 66mm"
+Date ""
+Rev ""
+Comp ""
+Comment1 "github.com/FesixGermany/ringlight66"
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:LED D3
+U 1 1 5FDA99BB
+P 3200 2350
+F 0 "D3" H 3191 2566 50  0000 C CNN
+F 1 "LED" H 3191 2475 50  0000 C CNN
+F 2 ".pretty:LED_3535" H 3200 2350 50  0001 C CNN
+F 3 "~" H 3200 2350 50  0001 C CNN
+	1    3200 2350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D5
+U 1 1 5FDA99E7
+P 3200 2700
+F 0 "D5" H 3191 2916 50  0000 C CNN
+F 1 "LED" H 3191 2825 50  0000 C CNN
+F 2 ".pretty:LED_3535" H 3200 2700 50  0001 C CNN
+F 3 "~" H 3200 2700 50  0001 C CNN
+	1    3200 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D7
+U 1 1 5FDA9A15
+P 3200 3050
+F 0 "D7" H 3191 3266 50  0000 C CNN
+F 1 "LED" H 3191 3175 50  0000 C CNN
+F 2 ".pretty:LED_3535" H 3200 3050 50  0001 C CNN
+F 3 "~" H 3200 3050 50  0001 C CNN
+	1    3200 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D9
+U 1 1 5FDA9A45
+P 3200 3400
+F 0 "D9" V 3145 3478 50  0000 L CNN
+F 1 "LED" V 3236 3478 50  0000 L CNN
+F 2 ".pretty:LED_3535" H 3200 3400 50  0001 C CNN
+F 3 "~" H 3200 3400 50  0001 C CNN
+	1    3200 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D11
+U 1 1 5FDA9A77
+P 3200 3750
+F 0 "D11" H 3191 3966 50  0000 C CNN
+F 1 "LED" H 3191 3875 50  0000 C CNN
+F 2 ".pretty:LED_3535" H 3200 3750 50  0001 C CNN
+F 3 "~" H 3200 3750 50  0001 C CNN
+	1    3200 3750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D13
+U 1 1 5FDA9AAB
+P 3200 4100
+F 0 "D13" H 3191 4316 50  0000 C CNN
+F 1 "LED" H 3191 4225 50  0000 C CNN
+F 2 ".pretty:LED_3535" H 3200 4100 50  0001 C CNN
+F 3 "~" H 3200 4100 50  0001 C CNN
+	1    3200 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D2
+U 1 1 5FDA9AE3
+P 3800 2000
+F 0 "D2" H 3791 2216 50  0000 C CNN
+F 1 "LED" H 3791 2125 50  0000 C CNN
+F 2 ".pretty:LED_3535" H 3800 2000 50  0001 C CNN
+F 3 "~" H 3800 2000 50  0001 C CNN
+	1    3800 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D6
+U 1 1 5FDA9B1D
+P 3800 2700
+F 0 "D6" H 3791 2916 50  0000 C CNN
+F 1 "LED" H 3791 2825 50  0000 C CNN
+F 2 ".pretty:LED_3535" H 3800 2700 50  0001 C CNN
+F 3 "~" H 3800 2700 50  0001 C CNN
+	1    3800 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D4
+U 1 1 5FDA9B61
+P 3800 2350
+F 0 "D4" H 3791 2566 50  0000 C CNN
+F 1 "LED" H 3791 2475 50  0000 C CNN
+F 2 ".pretty:LED_3535" H 3800 2350 50  0001 C CNN
+F 3 "~" H 3800 2350 50  0001 C CNN
+	1    3800 2350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D8
+U 1 1 5FDA9BA1
+P 3800 3050
+F 0 "D8" H 3791 3266 50  0000 C CNN
+F 1 "LED" H 3791 3175 50  0000 C CNN
+F 2 ".pretty:LED_3535" H 3800 3050 50  0001 C CNN
+F 3 "~" H 3800 3050 50  0001 C CNN
+	1    3800 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D12
+U 1 1 5FDA9BE1
+P 3800 3750
+F 0 "D12" H 3791 3966 50  0000 C CNN
+F 1 "LED" H 3791 3875 50  0000 C CNN
+F 2 ".pretty:LED_3535" H 3800 3750 50  0001 C CNN
+F 3 "~" H 3800 3750 50  0001 C CNN
+	1    3800 3750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D10
+U 1 1 5FDA9C23
+P 3800 3400
+F 0 "D10" H 3791 3616 50  0000 C CNN
+F 1 "LED" H 3791 3525 50  0000 C CNN
+F 2 ".pretty:LED_3535" H 3800 3400 50  0001 C CNN
+F 3 "~" H 3800 3400 50  0001 C CNN
+	1    3800 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D14
+U 1 1 5FDA9C6D
+P 3800 4100
+F 0 "D14" H 3791 4316 50  0000 C CNN
+F 1 "LED" H 3791 4225 50  0000 C CNN
+F 2 ".pretty:LED_3535" H 3800 4100 50  0001 C CNN
+F 3 "~" H 3800 4100 50  0001 C CNN
+	1    3800 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D15
+U 1 1 5FDA9CD3
+P 3200 4450
+F 0 "D15" H 3191 4666 50  0000 C CNN
+F 1 "LED" H 3191 4575 50  0000 C CNN
+F 2 ".pretty:LED_3535" H 3200 4450 50  0001 C CNN
+F 3 "~" H 3200 4450 50  0001 C CNN
+	1    3200 4450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D16
+U 1 1 5FDA9D71
+P 3800 4450
+F 0 "D16" H 3791 4666 50  0000 C CNN
+F 1 "LED" H 3791 4575 50  0000 C CNN
+F 2 ".pretty:LED_3535" H 3800 4450 50  0001 C CNN
+F 3 "~" H 3800 4450 50  0001 C CNN
+	1    3800 4450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J1
+U 1 1 5FDABB1F
+P 3500 1200
+F 0 "J1" H 3580 1242 50  0000 L CNN
+F 1 "+24V" H 3580 1151 50  0000 L CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm" H 3500 1200 50  0001 C CNN
+F 3 "~" H 3500 1200 50  0001 C CNN
+	1    3500 1200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J2
+U 1 1 5FDABBAD
+P 3500 5250
+F 0 "J2" H 3580 5292 50  0000 L CNN
+F 1 "-" H 3580 5201 50  0000 L CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm" H 3500 5250 50  0001 C CNN
+F 3 "~" H 3500 5250 50  0001 C CNN
+	1    3500 5250
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3200 1500 3200 1450
+Wire Wire Line
+	3200 1450 3500 1450
+Wire Wire Line
+	3200 5000 3500 5000
+Wire Wire Line
+	3500 5000 3500 5050
+Wire Wire Line
+	3500 5000 3800 5000
+Wire Wire Line
+	3800 5000 3800 4950
+Connection ~ 3500 5000
+Wire Wire Line
+	3200 4250 3200 4300
+Wire Wire Line
+	3200 3950 3200 3900
+Wire Wire Line
+	3200 3600 3200 3550
+Wire Wire Line
+	3800 4300 3800 4250
+Wire Wire Line
+	3800 3950 3800 3900
+Wire Wire Line
+	3800 3600 3800 3550
+Wire Wire Line
+	3200 3250 3200 3200
+Wire Wire Line
+	3200 2900 3200 2850
+Wire Wire Line
+	3800 3250 3800 3200
+Wire Wire Line
+	3800 2900 3800 2850
+Wire Wire Line
+	3200 2550 3200 2500
+Wire Wire Line
+	3800 2550 3800 2500
+Wire Wire Line
+	3200 2200 3200 2150
+Wire Wire Line
+	3800 2200 3800 2150
+Wire Wire Line
+	3500 1400 3500 1450
+Wire Wire Line
+	3500 1450 3800 1450
+Connection ~ 3500 1450
+$Comp
+L Device:R R1
+U 1 1 5FFB98A3
+P 3200 1650
+F 0 "R1" H 3270 1696 50  0000 L CNN
+F 1 "82" H 3270 1605 50  0000 L CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 3130 1650 50  0001 C CNN
+F 3 "~" H 3200 1650 50  0001 C CNN
+	1    3200 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 5FFB992F
+P 3800 4800
+F 0 "R2" H 3870 4846 50  0000 L CNN
+F 1 "82" H 3870 4755 50  0000 L CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 3730 4800 50  0001 C CNN
+F 3 "~" H 3800 4800 50  0001 C CNN
+	1    3800 4800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3800 1450 3800 1850
+Wire Wire Line
+	3200 1800 3200 1850
+Wire Wire Line
+	3200 4600 3200 5000
+Wire Wire Line
+	3800 4600 3800 4650
+$Comp
+L Device:LED D1
+U 1 1 603AD70A
+P 3200 2000
+F 0 "D1" H 3191 2216 50  0000 C CNN
+F 1 "LED" H 3191 2125 50  0000 C CNN
+F 2 ".pretty:LED_3535" H 3200 2000 50  0001 C CNN
+F 3 "~" H 3200 2000 50  0001 C CNN
+	1    3200 2000
+	0    -1   -1   0   
+$EndComp
+Text Notes 1950 1750 0    50   ~ 0
+Nichia NFSW036DT\n2,6V 30mA with 82R
+Text Notes 1950 2100 0    50   ~ 0
+Footprint also suitable \nfor PLCC-2 (more\ncommon)
+Text Notes 1950 2350 0    50   ~ 0
+Adjust resistor value\nfor other LEDs
+$EndSCHEMATC
